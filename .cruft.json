@@ -1,0 +1,23 @@
+{
+  "template": "git@github.com:baggiponte/chef",
+  "commit": "cdc76d066d0355df160a094638e6ab2c3a00e903",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Luca Baggi",
+      "author_email": "57922983+baggiponte@users.noreply.github.com",
+      "author_github_handle": "baggiponte",
+      "repo_name": "omi-forecast",
+      "__repo_name": "omi-forecast",
+      "package_name": "omi",
+      "package_description": "Forecast OMI House Prices",
+      "package_emoji": "🏠",
+      "requires_python": "3.10",
+      "__author_name": "Luca Baggi",
+      "__package_description": "Forecast omi house prices",
+      "__package_emoji": "🏠 ",
+      "_template": "git@github.com:baggiponte/chef"
+    }
+  },
+  "directory": null
+}
