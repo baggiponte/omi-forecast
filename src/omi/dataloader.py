@@ -69,6 +69,7 @@ class ValuesDataLoader:
             url,
             sep=";",
             skiprows=1,
+            skipinitialspace=True,
             usecols=range(21),
         )
 
